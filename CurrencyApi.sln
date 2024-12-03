@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency.Services", "Currency.Services\Currency.Services.csproj", "{54BB2C71-6E89-4D71-A7A4-950F8DA49B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency.Domain", "Currency.Domain\Currency.Domain.csproj", "{19AE1069-CE91-4B12-8976-F75B975C14C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency.API", "Currency.API\Currency.API.csproj", "{D9C3C785-8F29-4786-88F9-029F37040412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54BB2C71-6E89-4D71-A7A4-950F8DA49B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BB2C71-6E89-4D71-A7A4-950F8DA49B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BB2C71-6E89-4D71-A7A4-950F8DA49B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BB2C71-6E89-4D71-A7A4-950F8DA49B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AE1069-CE91-4B12-8976-F75B975C14C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AE1069-CE91-4B12-8976-F75B975C14C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AE1069-CE91-4B12-8976-F75B975C14C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AE1069-CE91-4B12-8976-F75B975C14C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C3C785-8F29-4786-88F9-029F37040412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C3C785-8F29-4786-88F9-029F37040412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C3C785-8F29-4786-88F9-029F37040412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C3C785-8F29-4786-88F9-029F37040412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

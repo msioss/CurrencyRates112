@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "NTPD0I8scmC5c26hQQGOb1PylO69UdPVfXTXJyZrdFs=",
+  "Source": "Currency.API",
+  "BasePath": "_content/Currency.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Currency.API\\wwwroot",
+      "Source": "Currency.API",
+      "ContentRoot": "C:\\Users\\marty\\RiderProjects\\CurrencyApi\\Currency.API\\wwwroot\\",
+      "BasePath": "_content/Currency.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

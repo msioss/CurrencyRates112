@@ -1,0 +1,15 @@
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\bin\Debug\net9.0\Currency.Services.deps.json
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\bin\Debug\net9.0\Currency.Services.dll
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\bin\Debug\net9.0\Currency.Services.pdb
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\bin\Debug\net9.0\Currency.Domain.dll
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\bin\Debug\net9.0\Currency.Domain.pdb
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\obj\Debug\net9.0\Currency.Services.csproj.AssemblyReference.cache
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\obj\Debug\net9.0\Currency.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\obj\Debug\net9.0\Currency.Services.AssemblyInfoInputs.cache
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\obj\Debug\net9.0\Currency.Services.AssemblyInfo.cs
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\obj\Debug\net9.0\Currency.Services.csproj.CoreCompileInputs.cache
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\obj\Debug\net9.0\Currency.38C3587A.Up2Date
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\obj\Debug\net9.0\Currency.Services.dll
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\obj\Debug\net9.0\refint\Currency.Services.dll
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\obj\Debug\net9.0\Currency.Services.pdb
+C:\Users\marty\RiderProjects\CurrencyApi\Currency.Services\obj\Debug\net9.0\ref\Currency.Services.dll
